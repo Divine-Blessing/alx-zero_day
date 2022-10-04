@@ -1,2 +1,2 @@
 My first readme
-* Updating mt README
+* Updating my README
